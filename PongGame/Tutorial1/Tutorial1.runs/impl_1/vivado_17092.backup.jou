@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2015.4_AR65982 (64-bit)
+# SW Build 1412921 on Wed Nov 18 09:44:32 MST 2015
+# IP Build 1412160 on Tue Nov 17 13:47:24 MST 2015
+# Start of session at: Fri Mar  4 14:47:42 2016
+# Process ID: 17092
+# Current directory: /home/pantho/Downloads/Tutorial1/Tutorial1.runs/impl_1
+# Command line: vivado -log top_module.vdi -applog -messageDb vivado.pb -mode batch -source top_module.tcl -notrace
+# Log file: /home/pantho/Downloads/Tutorial1/Tutorial1.runs/impl_1/top_module.vdi
+# Journal file: /home/pantho/Downloads/Tutorial1/Tutorial1.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source top_module.tcl -notrace
