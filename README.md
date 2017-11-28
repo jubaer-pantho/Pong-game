@@ -12,4 +12,6 @@ To play:
 - load the bitstream
 - run the c code from the vivado sdk
 - use push buttons to play
-Jubaer Hossain
+
+
+Jubaer Hossain (timeline : Feb 2016)
